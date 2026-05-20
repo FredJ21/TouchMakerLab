@@ -36,7 +36,7 @@ try:
                 for g in GPIOS
             )
         print(f"{now}  | Gpio 16to21 : {states}")
-        time.sleep(0.5)
+        time.sleep(0.1)
  
 except KeyboardInterrupt:
     print("\nTerminé.")
