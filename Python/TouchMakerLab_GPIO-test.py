@@ -12,7 +12,7 @@ relier de 6 à 12 GPIO en quelques secondes grâce à ses 6 connecteurs jack.
 Fini la prise de tête avec le câblage — 
 concentrez-vous sur le code, que ce soit sur Scratch ou en Python. 
 
-by SLmediation & F-ROBOTICS.FR                                         mai 2026             
+by SLmediation & F-ROBOTICS.FR                                        mai 2026             
 
 -------------------------------------------------------------------------------
 '''
