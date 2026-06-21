@@ -109,6 +109,18 @@ Possibilité d'utiliser des connecteurs Jack 3.5mm monos ou stéréos
 <img src="images/PCB_Design.png">
 
 
+---
+
+© 2026 [SLmediation & F-ROBOTICS.FR]. Tous droits réservés.
+
+Le matériel, le logiciel et la documentation constituant ce projet sont la propriété
+exclusive de [SLmediation & F-ROBOTICS.FR] et sont protégés par le droit de la propriété intellectuelle.
+Toute reproduction, fabrication ou distribution, partielle ou totale, est strictement
+interdite sans autorisation écrite préalable.<br>
+Contacts : <br>
+👉 https://www.instagram.com/slmediation<br>
+👉 https://www.instagram.com/fredrobotic<br>
+
 
 
 
