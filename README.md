@@ -3,7 +3,10 @@
 **Touch Maker Lab** est une carte d'extension pour Raspberry PI, pensée par des makers pour des makers, conçue pour faciliter la connexion et la programmation des entrées/sorties. Elle permet d’interagir avec le système grâce à ses **6 pads tactiles** et de relier de 6 à 12 GPIO en quelques secondes grâce à ses **6 connecteurs jack**. 
 Fini la prise de tête avec le câblage — concentrez-vous sur le code, que ce soit sur **Scratch** ou en **Python**.
 
-_by SLmediation &amp; F-ROBOTICS.FR_
+_by SLmediation  &amp; F-ROBOTICS.FR_
+
+👉 https://www.instagram.com/slmediation<br>
+👉 https://www.instagram.com/fredrobotic<br>
 
 ---
 
