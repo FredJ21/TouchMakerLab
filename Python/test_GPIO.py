@@ -15,6 +15,18 @@ concentrez-vous sur le code, que ce soit sur Scratch ou en Python.
 by SLmediation & F-ROBOTICS.FR                                        mai 2026             
 
 -------------------------------------------------------------------------------
+
+Copyright © 2026 [SLmediation & F-ROBOTICS.FR]. Tous droits réservés.
+
+Le matériel, le logiciel et la documentation constituant ce projet sont la propriété
+exclusive de [SLmediation & F-ROBOTICS.FR] et sont protégés par le droit de la propriété intellectuelle.
+Toute reproduction, fabrication ou distribution, partielle ou totale, est strictement
+interdite sans autorisation écrite préalable.
+Contacts : 
+👉 https://www.instagram.com/slmediation
+👉 https://www.instagram.com/fredrobotic
+
+-------------------------------------------------------------------------------
 '''
 
 import time
