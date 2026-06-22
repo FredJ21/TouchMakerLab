@@ -111,7 +111,7 @@ Possibilité d'utiliser des connecteurs Jack 3.5mm monos ou stéréos
 
 ---
 
-© 2026 [SLmediation & F-ROBOTICS.FR]. Tous droits réservés.
+Copyright © 2026 [SLmediation & F-ROBOTICS.FR]. Tous droits réservés.
 
 Le matériel, le logiciel et la documentation constituant ce projet sont la propriété
 exclusive de [SLmediation & F-ROBOTICS.FR] et sont protégés par le droit de la propriété intellectuelle.
