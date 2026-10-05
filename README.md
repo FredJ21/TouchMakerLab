@@ -122,7 +122,6 @@ interdite sans autorisation écrite préalable.<br>
 Contacts : <br>
 👉 https://www.instagram.com/slmediation<br>
 👉 https://www.instagram.com/fredrobotic<br>
-🟣 https://touchmakerlab.fr<br>
 
 ---
 
