@@ -1,6 +1,6 @@
 ![Guide de démarrage – Premiers pas avec la Touch Maker Lab](images/01-banniere-guide-de-demarrage.jpg)
 
-> ***« Un projet pensé par des Makers, pour des Makers ! »***
+***👉 « Un projet pensé par des Makers, pour des Makers ! »***
 
 La Touch Maker Lab est née d’un constat fait au fil de nos projets : les idées sont nombreuses, mais les câbles et les branchements peuvent rapidement freiner l’expérimentation.
 
@@ -30,7 +30,9 @@ La Touch Maker Lab est un projet pensé pour être partagé. Vous avez créé un
 
 # Guide de démarrage
 
-**De l’installation aux premiers projets en moins d’une heure !**
+**👉 De l’installation aux premiers projets en moins d’une heure !**
+
+---
 
 ## Introduction
 
@@ -40,6 +42,8 @@ Grâce à ses pads tactiles et à ses connecteurs jack, elle permet de créer ra
 
 Ce guide vous accompagne de l’installation de la carte jusqu’à la création d’un premier jeu Scratch.
 
+---
+
 ### Ce guide vous permet de…
 
 - Installer et tester la Touch Maker Lab.
@@ -47,6 +51,8 @@ Ce guide vous accompagne de l’installation de la carte jusqu’à la création
 - Transformer la Touch Maker Lab en manette de jeu.
 - Programmer les LED témoins.
 - Poursuivre avec les ressources téléchargeables.
+
+---
 
 ### Ce qu’il vous faut
 
@@ -58,6 +64,7 @@ Si votre Raspberry Pi n’est pas encore configuré, reportez-vous à la [docume
 
 L’installation du système relève du Raspberry Pi. Les étapes suivantes concernent uniquement la Touch Maker Lab.
 
+---
 
 ## Installer la Touch Maker Lab
 
@@ -76,11 +83,15 @@ La Touch Maker Lab se place au-dessus du Raspberry Pi et se connecte directement
 
 Pour stabiliser l’ensemble, vous pouvez ajouter quatre entretoises M2.5 x 11mm = vis.
 
+---
+
 ### Repérer les éléments sur la carte
 
 Sur la Touch Maker Lab, repérez les pads tactiles, les LED intégrées et les prises jacks pour les branchements externes.
 
 ![Repérage des éléments : 6 connecteurs jack, 6 LED témoins, 6 pads tactiles](images/04-reperage-elements-carte.jpg)
+
+---
 
 ### Premier test : toucher les pads
 
@@ -93,6 +104,8 @@ Vous n’avez rien à connecter aux prises jack pour effectuer le premier test. 
 > **Dépannage**
 >
 > Si une LED ne réagit pas, éteignez le Raspberry Pi et débranchez son alimentation avant de vérifier le positionnement de la carte.
+
+---
 
 ## Préparer Scratch
 
@@ -119,6 +132,8 @@ sudo apt install scratch3
 
 Une connexion à Internet est nécessaire pour l’installation.
 
+---
+
 ### Les extensions Scratch pour Raspberry Pi
 
 ![Icône « Ajouter une extension »](images/07-icone-ajouter-extension.png) Dans Scratch, cliquez sur **Ajouter une extension** en bas à gauche.
@@ -137,6 +152,8 @@ Cette extension propose des blocs pour détecter une entrée, un bouton, et comm
 
 Cette extension donne accès à un contrôle plus direct des broches GPIO. Elle sera utile pour certains projets et utilisée dans le deuxième guide qui vous est proposé pour aller plus loin.
 
+---
+
 ### Tester la communication
 
 La carte réagit au toucher : vérifions maintenant qu’un pad peut déclencher une action dans Scratch.
@@ -146,7 +163,11 @@ La carte réagit au toucher : vérifions maintenant qu’un pad peut déclencher
 
 ![Programme de test : quand le bouton 16 est pressé, dire « Bonjour ! » pendant 2 secondes](images/09-programme-test-communication.png) ![Le sprite chat dit « Bonjour ! »](images/10-sprite-chat-bonjour.png)
 
+---
+
 ## Transformer la Touch Maker Lab en manette de jeu
+
+---
 
 ### Remplacer les touches du clavier par les pads
 
@@ -162,6 +183,8 @@ Dans les exemples proposés, quatre pads servent à diriger le sprite :
 | Flèche haut | 19 | Aller vers le haut |
 
 Le pad **21** peut, par exemple, remplacer la barre d’espace pour effectuer une action complémentaire : sauter, tirer, valider une réponse ou lancer un objet.
+
+---
 
 ### Déplacer le sprite
 
@@ -186,6 +209,8 @@ Vous pouvez reproduire les programmes présentés ci-dessous ou télécharger le
 
 ![Programme de déplacement avec des conditions dans une boucle « répéter indéfiniment »](images/17-deplacement-conditions.png)
 
+---
+
 ### Pour aller plus loin
 
 Vous avez déjà créé un projet Scratch utilisant les touches du clavier ? Adaptez-le pour transformer la Touch Maker Lab en manette de jeu !
@@ -194,11 +219,15 @@ Vous avez déjà créé un projet Scratch utilisant les touches du clavier ? Ada
 2. Remplacez-les par les blocs équivalents de l’extension **Raspberry Pi Simple Electronics**.
 3. Testez votre projet avec les pads tactiles.
 
+---
+
 ## Comprendre les LED témoins
 
 La Touch Maker Lab possède six LED témoins, associées aux GPIO 16 à 21.
 
 Lorsque vous touchez un pad, la LED correspondante s’allume automatiquement. Ce premier fonctionnement ne nécessite aucune programmation.
+
+---
 
 ### Un fonctionnement inversé
 
@@ -212,6 +241,8 @@ Lorsque les LED témoins sont pilotées par Scratch, leur fonctionnement est inv
 > **À retenir**
 >
 > Ce fonctionnement inversé est normal. IL correspond à la conception électronique de la carte et au rôle de ces LED.
+
+---
 
 ### Allumer et éteindre une LED témoin
 
@@ -231,6 +262,8 @@ Le programme comporte trois parties :
 **Programme** `SE_Interrupteur.sb3`
 
 Modifiez le numéro du GPIO dans les blocs pour commander une autre LED témoin : 17, 18, 19, 20 ou 21.
+
+---
 
 ### Programmer un chenillard
 
