@@ -199,11 +199,18 @@ Vous pouvez reproduire les programmes présentés ci-dessous ou télécharger le
 
 **Programme** `SE_Déplacement_Instructions.sb3`
 
-![Quand le drapeau vert est cliqué, fixer le sens de rotation gauche-droite](images/12-deplacement-instructions-drapeau.png)
+<img src="images/12-deplacement-instructions-drapeau.png" alt="Quand le drapeau vert est cliqué, fixer le sens de rotation gauche-droite" width="50%"/>
 
-![Pad 16 : s’orienter à -90, avancer de 10 pas](images/13-deplacement-instructions-pad16.png) ![Pad 17 : s’orienter à 0, avancer de 10 pas](images/14-deplacement-instructions-pad17.png)
-
-![Pad 18 : s’orienter à 180, avancer de 10 pas](images/15-deplacement-instructions-pad18.png) ![Pad 19 : s’orienter à 90, avancer de 10 pas](images/16-deplacement-instructions-pad19.png)
+<table>
+  <tr>
+    <td><img src="images/13-deplacement-instructions-pad16.png" alt="Pad 16 : s’orienter à -90, avancer de 10 pas" width="100%"/></td>
+    <td><img src="images/14-deplacement-instructions-pad17.png" alt="Pad 17 : s’orienter à 0, avancer de 10 pas" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/15-deplacement-instructions-pad18.png" alt="Pad 18 : s’orienter à 180, avancer de 10 pas" width="100%"/></td>
+    <td><img src="images/16-deplacement-instructions-pad19.png" alt="Pad 19 : s’orienter à 90, avancer de 10 pas" width="100%"/></td>
+  </tr>
+</table>
 
 **Programme** `SE_Déplacement_Conditions.sb3`
 
