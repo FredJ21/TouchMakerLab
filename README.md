@@ -292,3 +292,24 @@ Pour poursuivre vos expérimentations, téléchargez les projets et leurs fiches
 > - [Site de la Touch Maker Lab](https://touchmakerlab.fr/)
 > - [Télécharger les projets et les ressources](https://drive.google.com/drive/folders/1ErLDV3NABJdPX6h6AkegQPzbO7ecrQtf?usp=sharing)
 > - [Consulter le dépôt GitHub](https://github.com/FredJ21/TouchMakerLab/)
+
+
+---
+
+---
+
+***Organisation des répertoirs du dépot GIT***
+
+```bash
+|
+|__Guide_de_Demarrage      (guide au format PDF)
+|	|__Programmes_Guide_Demarrage
+|
+|__Scratch 			      (programmes Scratch)
+|__Python  			      (programmes Python)
+|__images 			      (images & photos diverses)
+|	|__PCB			      (images du PCB)
+|__communication			(fiche projet, qrcode, ….. )
+|__Documents_Techniques	(doc divers )
+```
+
