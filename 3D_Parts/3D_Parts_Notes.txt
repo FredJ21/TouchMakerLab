@@ -1,0 +1,7 @@
+Touch Maker Lab - 3D Parts
+--------------------------
+
+
+
+Socle_Raspberry_PI.stl		-->	Socle simple pour RPI3 et vis/entretoises 2.5mm
+Socle_TML_Pi400.stl		-->	Socle lors de l'utilisation de la TouchMakerLab avec un PI400 ( hauteur 21mm )
